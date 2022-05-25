@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:triplist/screens/home.dart';
+import 'package:triplist/screens/sandBox.dart';
 
 void main() {
   runApp(MyApp());
@@ -11,7 +12,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       title: 'List Trips',
-      home: Home(),
+      home: Sandbox(),
     );
   }
 }
