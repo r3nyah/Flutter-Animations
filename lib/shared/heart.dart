@@ -6,7 +6,7 @@ class Heart extends StatefulWidget {
 }
 
 class _HeartState extends State<Heart> with SingleTickerProviderStateMixin {
-  bool Subscribe = false;
+  bool isFav = false;
   late AnimationController _controller;
   late Animation<Color?> _colorAnimation;
   late Animation<double> _sizeAnimation;
@@ -39,12 +39,12 @@ class _HeartState extends State<Heart> with SingleTickerProviderStateMixin {
     _controller.addStatusListener((status) {
       if (status == AnimationStatus.completed) {
         setState(() {
-          Subscribe = true;
+          isFav = true;
         });
       }
       if (status == AnimationStatus.dismissed) {
         setState(() {
-          Subscribe = false;
+          isFav = false;
         });
       }
     });
@@ -69,7 +69,7 @@ class _HeartState extends State<Heart> with SingleTickerProviderStateMixin {
               size: _sizeAnimation.value,
             ),
             onPressed: () {
-              Subscribe ? _controller.reverse() : _controller.forward();
+              isFav ? _controller.reverse() : _controller.forward();
             },
           );
         });
