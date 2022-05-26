@@ -5,7 +5,7 @@
 - [x] Hero Animation (<a href="https://github.com/r3nyah/Flutter-Animations/tree/57a618478250b57977ec35c353a68082271264d3">Lesson-4</a>)
 - [x] Dart Mixins (<a>Lesson-5</a>)
 - [x] Animation Controllers (<a href="https://github.com/r3nyah/Flutter-Animations/tree/57a618478250b57977ec35c353a68082271264d3">Lesson-6</a>)
-- [ ] Tween Sequences (<a href="">Lesson-7</a>)
+- [x] Tween Sequences (<a href="https://github.com/r3nyah/Flutter-Animations/tree/f2ec06040c9088cb8099adc099a5d837a7f30677">Lesson-7</a>)
 - [ ] Curves (<a href="">Lesson-8</a>)
 - [ ] Animated List (<a href="">Lesson-9</a>)
 - [ ] Stagger List Animations (<a href="">Lesson-10</a>)
