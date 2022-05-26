@@ -11,7 +11,6 @@ class _HeartState extends State<Heart> with SingleTickerProviderStateMixin {
   late Animation<Color?> _colorAnimation;
   late Animation<double> _sizeAnimation;
   late Animation<double> _curve;
-
   @override
   void initState() {
     super.initState();
