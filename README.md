@@ -6,9 +6,9 @@
 - [x] Dart Mixins (<a>Lesson-5</a>)
 - [x] Animation Controllers (<a href="https://github.com/r3nyah/Flutter-Animations/tree/57a618478250b57977ec35c353a68082271264d3">Lesson-6</a>)
 - [x] Tween Sequences (<a href="https://github.com/r3nyah/Flutter-Animations/tree/f2ec06040c9088cb8099adc099a5d837a7f30677">Lesson-7</a>)
-- [ ] Curves (<a href="">Lesson-8</a>)
-- [ ] Animated List (<a href="">Lesson-9</a>)
-- [ ] Stagger List Animations (<a href="">Lesson-10</a>)
+- [x] Curves (<a href="https://github.com/r3nyah/Flutter-Animations/tree/d8fa6363e48f78c045aa81d9275a825dd5e3e151">Lesson-8</a>)
+- [x] Animated List (<a href="https://github.com/r3nyah/Flutter-Animations/tree/89f2a12808e811e62a040d4b86f1b7c98e111bff">Lesson-9</a>)
+- [x] Stagger List Animations (<a href="https://github.com/r3nyah/Flutter-Animations/tree/8343e2bb18c784147fc27aac61586cd65b8d525a">Lesson-10</a>)
 <br>
 <br>
   
